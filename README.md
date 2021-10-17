@@ -5,6 +5,4 @@
 + Likez le repo 
 + Besoin d'aide ? Ajoutez moi Elmét#1338
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
-+pip install requests==2.26.0 beautifulsoup4==4.10.0+
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
++ pip install requests==2.26.0 beautifulsoup4==4.10.0 dans cmd
