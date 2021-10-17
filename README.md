@@ -1,2 +1,2 @@
 # Generateur-de-compte
-non
+Elmét#1338 ( je ne suis pas le createur original )
