@@ -13,4 +13,4 @@
 
 [+] python generateur.py 
 
-[+] Install python et cliquez sur "ADD TO PATH" 
+[+] Installez python et cliquez sur "ADD TO PATH" 
